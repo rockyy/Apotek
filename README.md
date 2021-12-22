@@ -28,6 +28,9 @@ yarn
 expo start -c
 ```
 
+## Screenshot
+<img src="https://github.com/rockyy/Apotek/blob/main/screenshot/image1.jpeg" width="160" height="260" /><img src="https://github.com/rockyy/Apotek/blob/main/screenshot/image2.jpeg" width="160" height="260" />
+
 
 ## License
 
