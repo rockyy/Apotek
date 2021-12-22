@@ -1,7 +1,7 @@
 # Apotek
 
 The task is divided into bullet points
-- Build a list with prescriptions. The list should get the data from the attached json file.
+- Build a list with prescriptions. The list should get the data from the attached [JSON](https://github.com/rockyy/Apotek/blob/main/src/assets/prescriptions.json) file.
 - Every row should be reusable and contain the articles `productName` and `preamble`
 - Every row that is not in stock should have a red background
 - The row should be pressable and take you to a detailed View
